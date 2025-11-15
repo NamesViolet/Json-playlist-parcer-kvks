@@ -16,6 +16,17 @@ g++ -std=c++17 -O2 -Wall -o parsejson.exe json_parser.cpp
 
 
 Usage:
+
+                                • Basic usage
+
+        
+
+                                
+
+
+
+                                • "advanced" usage:
+                                
                                                                • COMMANDS/FLAGS:
                                                                
                                 •  -d or --discription will include the discription.
@@ -41,6 +52,7 @@ Usage:
                               ^                                                                                                                     ^  ^
                               ^ compiled EXE file name                                                                                              ^  ^ Outputs author/creators steam username + ID
                                                                                                                                                     ^ adds the description of the playlist
+
 
 
 
